@@ -1,0 +1,4 @@
+li{list-style: none;}
+img{width: 180px; height: 90px;}
+b{display: block;}
+ul > b{margin-left: -30px;}
