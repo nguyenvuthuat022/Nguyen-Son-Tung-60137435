@@ -1,0 +1,11 @@
+h1{text-align: center; color: #006600;}
+h2:nth-of-type(1), p:nth-of-type(1){
+    color: #0000FF;
+}
+h2:nth-of-type(2){
+    color: #FF3399;
+    background-color: #FECFFD;
+}
+hr{width: 20%;}
+p:nth-of-type(2){color: #FF3399;}
+p:nth-of-type(3){color: #006600;}
