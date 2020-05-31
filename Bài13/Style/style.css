@@ -1,0 +1,25 @@
+*{margin: 0; padding: 0;}
+form{
+    width: 500px;
+    padding: 20px;
+    border: black 5px double;
+}
+.textbox{
+    display: inline;
+}
+.radio-btn{
+    display: inline;
+    margin-left: 20px;
+}
+.check-box label{
+    display: block;
+    margin-left: 30px;
+}
+h2{
+    width: 500px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+button{
+    padding: 5px;
+}
