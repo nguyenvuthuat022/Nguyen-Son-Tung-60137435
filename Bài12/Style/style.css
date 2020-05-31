@@ -1,0 +1,18 @@
+*{
+    margin: 0px; padding: 0px;
+}
+form{
+    width: 280px;
+    border: #838383 1px solid;
+    padding: 14px;
+}
+form div{
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+form label{
+    display: inline-block;
+    width: 115px;
+}
+form button{margin: 15px 0px 0px 40px;padding: 5px;}
