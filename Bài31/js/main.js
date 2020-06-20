@@ -5,6 +5,5 @@ $(document).ready(function () {
         str1 = $('input').val();
         $('div').append('<p>'+str1+' - <i>'+str2+'</i></p>')
         e.preventDefault();
-        
     });
 });
